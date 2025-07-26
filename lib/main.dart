@@ -3,9 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 import 'package:tyamo/Controller/User%20Controller/user_controller.dart';
-import 'package:tyamo/Views/Auth/login.dart';
-import 'package:tyamo/Views/Auth/splash.dart';
-import 'package:tyamo/Views/HomePage/dashboard.dart';
 import 'package:tyamo/Views/HomePage/homepage.dart';
 import 'package:tyamo/firebase_options.dart';
 
@@ -32,4 +29,5 @@ class Tyamo extends StatelessWidget {
         },
       ),
     );
-  
+  }
+}

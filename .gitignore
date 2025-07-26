@@ -41,3 +41,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+# Extra Android build folders and native libs
+android/app/build/
+android/app/intermediates/
+android/app/outputs/
+android/app/.cxx/
+*.apk
+*.so
