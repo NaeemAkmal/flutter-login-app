@@ -1,0 +1,26 @@
+com.example.tyamo.app-core-1.6.0-0 C:\Users\naeem\.gradle\caches\transforms-3\3ff93e9927d964375f8543f688cdf314\transformed\core-1.6.0\res
+com.example.tyamo.app-jetified-annotation-experimental-1.1.0-1 C:\Users\naeem\.gradle\caches\transforms-3\5ffbe22b0532258d0526555db119318b\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.tyamo.app-jetified-play-services-base-18.1.0-2 C:\Users\naeem\.gradle\caches\transforms-3\7b708b8b0f47cafc7cb6d45b10b41114\transformed\jetified-play-services-base-18.1.0\res
+com.example.tyamo.app-jetified-credentials-play-services-auth-1.2.0-rc01-3 C:\Users\naeem\.gradle\caches\transforms-3\93c7e0b1c5687e9ee3c7c9793b169cf9\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.example.tyamo.app-jetified-core-common-2.0.3-4 C:\Users\naeem\.gradle\caches\transforms-3\98a30942bf5deae2897d9995e9efc7c8\transformed\jetified-core-common-2.0.3\res
+com.example.tyamo.app-jetified-play-services-basement-18.4.0-5 C:\Users\naeem\.gradle\caches\transforms-3\9f1c0627d8240c13f3c9625b6072d414\transformed\jetified-play-services-basement-18.4.0\res
+com.example.tyamo.app-jetified-credentials-1.2.0-rc01-6 C:\Users\naeem\.gradle\caches\transforms-3\a449cca1375367740b31841262f2e43e\transformed\jetified-credentials-1.2.0-rc01\res
+com.example.tyamo.app-browser-1.4.0-7 C:\Users\naeem\.gradle\caches\transforms-3\ab039745f0b23443c5e5fc4ee0bcc6a0\transformed\browser-1.4.0\res
+com.example.tyamo.app-jetified-play-services-auth-20.7.0-8 C:\Users\naeem\.gradle\caches\transforms-3\ae6a2350497849ac1e92d36810cc67de\transformed\jetified-play-services-auth-20.7.0\res
+com.example.tyamo.app-jetified-window-java-1.0.0-beta04-9 C:\Users\naeem\.gradle\caches\transforms-3\af0699ba449ee691cf285ccd838d2498\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.tyamo.app-jetified-window-1.0.0-beta04-10 C:\Users\naeem\.gradle\caches\transforms-3\e7d65c470baf094e558abe601485d9f6\transformed\jetified-window-1.0.0-beta04\res
+com.example.tyamo.app-jetified-firebase-common-21.0.0-11 C:\Users\naeem\.gradle\caches\transforms-3\fed5e917746ca860ff7f2793c331b63e\transformed\jetified-firebase-common-21.0.0\res
+com.example.tyamo.app-packaged_res-12 C:\Users\naeem\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-5.6.11\android\build\intermediates\packaged_res\debug
+com.example.tyamo.app-packaged_res-13 C:\Users\naeem\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-5.6.2\android\build\intermediates\packaged_res\debug
+com.example.tyamo.app-packaged_res-14 C:\Users\naeem\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-3.15.1\android\build\intermediates\packaged_res\debug
+com.example.tyamo.app-packaged_res-15 C:\Users\naeem\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.10\android\build\intermediates\packaged_res\debug
+com.example.tyamo.app-packaged_res-16 C:\Users\naeem\AppData\Local\Pub\Cache\hosted\pub.dev\rive_common-0.4.15\android\build\intermediates\packaged_res\debug
+com.example.tyamo.app-packaged_res-17 C:\Users\naeem\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.3+1\android\build\intermediates\packaged_res\debug
+com.example.tyamo.app-google-services-18 E:\Flutter ehunar\tyamo\android\app\build\generated\res\google-services\debug
+com.example.tyamo.app-pngs-19 E:\Flutter ehunar\tyamo\android\app\build\generated\res\pngs\debug
+com.example.tyamo.app-resValues-20 E:\Flutter ehunar\tyamo\android\app\build\generated\res\resValues\debug
+com.example.tyamo.app-packageDebugResources-21 E:\Flutter ehunar\tyamo\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.tyamo.app-packageDebugResources-22 E:\Flutter ehunar\tyamo\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.tyamo.app-merged_res-23 E:\Flutter ehunar\tyamo\android\app\build\intermediates\merged_res\debug
+com.example.tyamo.app-debug-24 E:\Flutter ehunar\tyamo\android\app\src\debug\res
+com.example.tyamo.app-main-25 E:\Flutter ehunar\tyamo\android\app\src\main\res

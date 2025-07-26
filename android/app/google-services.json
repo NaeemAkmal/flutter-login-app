@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243366168728",
+    "project_id": "tyamo-app391",
+    "storage_bucket": "tyamo-app391.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243366168728:android:e721b77a583d0fd0ba68ed",
+        "android_client_info": {
+          "package_name": "com.example.tyamo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqN8HWE0By6JpO2RpU1KXfjwJdXA_pnEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
